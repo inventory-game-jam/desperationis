@@ -1,0 +1,4 @@
+name: in-decay
+version: '${version}'
+main: com.github.inventorygamejam.indecay.In_decay
+api-version: '1.21'
